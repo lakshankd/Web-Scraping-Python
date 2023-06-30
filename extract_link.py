@@ -19,4 +19,3 @@ for heading in headings:
     print("\n")
 
 # This only retrieve the results from the first page of search results.
-# Can you get the results from the second page as well? What is the GET parameter you need to include to get the rest of the search results?
